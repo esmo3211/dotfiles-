@@ -11,7 +11,7 @@ _I like rice, but i prefer pasta_
 Clone the repository to copy and use these configuration files. 
 
 ```sh
-git clone https://github.com/00Darxk/dotfiles.git
+git clone https://github.com/esmo3211/dotfiles-.git
 cd dotfiles
 ```
 
